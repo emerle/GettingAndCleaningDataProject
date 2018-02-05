@@ -29,18 +29,15 @@ This codebook describes the variables, the data, and any transformations or work
 <br/>
 
 ## Transformations
-- The input data sets were read
-    <ul>
-      - `activityLabels`: data frame container of activity_labels.txt
-      - `features`: data frame container of features.txt
-      - `subjectTest`: data frame container of subject_test.txt
-      - `xTest`: data frame container of X_test.txt
-      - `yTest`: data frame container of y_test.txt
-      - `subjectTraining`: data frame container of subject_train.txt
-      - `xTraining`: data frame container of X_train.txt
-      - `yTraining`: data frame container of y_train.txt
-  </li>
-</ul>
+- The input data sets were read: <br/> 
+      - `activityLabels`: data frame container of activity_labels.txt <br/> 
+      - `features`: data frame container of features.txt <br/>
+      - `subjectTest`: data frame container of subject_test.txt <br/>
+      - `xTest`: data frame container of X_test.txt <br/>
+      - `yTest`: data frame container of y_test.txt <br/>
+      - `subjectTraining`: data frame container of subject_train.txt <br/>
+      - `xTraining`: data frame container of X_train.txt <br/>
+      - `yTraining`: data frame container of y_train.txt <br/>
 - Test Data Sets were merged and named the resulting data frame to `testDataSet`
 - Training Data Sets were merged and named the resulting data frame to `trainingDataSet`
 - Test and Training Data Sets were merged and named the resulting data frame to `mergedDataSet`
