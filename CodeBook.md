@@ -2,6 +2,7 @@
 title: "CodeBook - run_analysis.R"
 output: html_document
 ---
+## Code Book - run_analysis.R
 
 This codebook describes the variables, the data, and any transformations or work that were used in *run_analysis.R* and were performed to clean up the data for the **Getting and Cleaning Data Course Project**.
 
